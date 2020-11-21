@@ -1,0 +1,7 @@
+# github.com/loadimpact/k6 v0.29.0
+## explicit
+github.com/loadimpact/k6/js/internal/modules
+github.com/loadimpact/k6/js/modules
+# github.com/pebbe/zmq4 v1.2.1
+## explicit
+github.com/pebbe/zmq4
