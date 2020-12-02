@@ -1,4 +1,4 @@
-module github.com/dgzlopes/k6-extension-zmq
+module github.com/dgzlopes/xk6-zmq
 
 go 1.15
 

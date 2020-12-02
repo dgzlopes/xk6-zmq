@@ -1,4 +1,4 @@
-# k6-extension-zmq
+# xk6-zmq
 
 This is a [k6](https://github.com/loadimpact/k6) extension using the [xk6](https://github.com/k6io/xk6) system.
 
@@ -23,7 +23,7 @@ Then:
 2. Build the binary:
   ```shell
   CGO_ENABLED=1 go run ./cmd/xk6/main.go build master \
-    --with github.com/dgzlopes/k6-extension-zmq
+    --with github.com/dgzlopes/xk6-zmq
   ```
 
 ## Example
